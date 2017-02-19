@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0, PRVA
-http://a-mirway1-7e580014cb-falestin-gaza-aleppo.reupvideo.com/stream/85b8daf4ec8a0ec3b75f13d296b0b35e/6de4586dceb374a928750ef0aaf70feb/dbad8d4042b88386502634d133a50d4a/index.m3u8?origin=ustreamix.com&nocache=1487278153
+http://87.250.52.222:9981/stream/channelid/1860361891?ticket=B89464B93E00CFAB9A6778BEE2AFC285DF375BCF&profile=matroska
 
 #EXTINF:0, TOP SOUND
 http://185.152.65.132:8080/topsound/mpegts
