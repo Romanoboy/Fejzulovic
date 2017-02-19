@@ -1,0 +1,168 @@
+#EXTM3U
+
+#EXTINF:0, PRVA
+http://87.250.52.222:9981/stream/channelid/1860361891?ticket=B89464B93E00CFAB9A6778BEE2AFC285DF375BCF&profile=matroska
+
+#EXTINF:0, TOP SOUND
+http://185.152.65.132:8080/topsound/mpegts
+
+#EXTINF:0, BIBELTV
+http://mf.bibeltv.c.nmdn.net/bibeltv_live/BIBEL_TV_HQ-480p.stream/playlist.m3u8
+
+#EXTINF:0, Pink Musik 2
+http://87.255.53.72:9009
+
+#EXTINF:0, Pink
+http://87.255.53.72:9054
+
+#EXTINF:0, Pink1
+http://87.255.53.72:9054
+
+#EXTINF:0, Pink 2
+http://87.255.53.72:9055
+
+#EXTINF:0,OBN
+http://164.132.52.186:26555/tv/stream/tvob/index.m3u8
+
+#EXTINF:0,PINK Music
+http://87.255.53.72:9010
+
+#EXTINF:0,PINK Folk 1
+http://87.255.53.72:9012
+#EXTINF:0,Pink Family
+
+http://87.255.53.72:9017
+
+#EXTINF:0,PINK Classic
+http://87.255.53.72:9025
+
+#EXTINF:0,BRAVO
+http://87.255.53.72:9026
+
+#EXTINF:0,PINK Style
+http://87.255.53.72:9027
+
+#EXTINF:0,PINK Folk 2
+http://87.255.53.72:9039
+
+#EXTINF:0,PINK Zabava
+http://87.255.53.72:9040
+
+#EXTINF:0,RTRS plus
+http://87.255.53.67:9041
+
+#EXTINF:0,Pink SOAR
+
+http://87.255.53.72:9043
+
+#EXTINF:0,Pink Premium
+
+http://87.255.53.72:9044
+
+#EXTINF:0,Pink Reality
+
+http://87.255.53.72:9045
+
+#EXTINF:0,PinkPedia
+
+http://87.255.53.72:9047
+
+#EXTINF:0,Pink HOROR
+http://87.255.53.72:9048
+
+#EXTINF:0,Pink COMEDY
+http://87.255.53.72:9049
+
+#EXTINF:0,Pink 2
+http://87.255.53.72:9055
+
+#EXTINF:0,Pink World
+http://87.255.53.72:9057
+
+#EXTINF:0,Pink M
+http://87.255.53.72:9058
+
+#EXTINF:0,Pink Movies
+http://87.255.53.72:9059
+
+#EXTINF:0,Pink Plus
+http://87.255.53.72:9060
+
+#EXTINF:0,Pink Extra
+http://87.255.53.72:9061
+
+#EXTINF:0,Pink Film
+http://87.255.53.72:9062
+
+#EXTINF:0,Pink Kids
+
+http://87.255.53.72:9063
+
+#EXTINF:0,Pink Action
+http://87.255.53.72:9065
+
+#EXTINF:0,Pink Serije
+http://87.255.53.72:9066
+
+#EXTINF:0,Pink Western
+http://87.255.53.72:9070
+
+#EXTINF:0,Pink BH
+http://87.255.53.72:9071
+
+#EXTINF:0,Pink Thriller
+http://87.255.53.72:9077
+
+#EXTINF:0,Pink Koncert
+http://87.255.53.72:9078
+
+#EXTINF:0,Pink Romance
+http://87.255.53.72:9079
+
+#EXTINF:0,Pink Sci Fi
+http://87.255.53.72:9080
+
+#EXTINF:0,Pink Hits 2
+http://87.255.53.72:9081
+
+#EXTINF:0,Pink Hits
+http://87.255.53.72:9082
+
+#EXTINF:0,Pink Parada
+http://87.255.53.72:9083
+
+#EXTINF:0,Fight Network
+http://87.255.53.72:9084
+
+#EXTINF:0,Pink Crime Mistery
+http://87.255.53.72:9085
+
+#EXTINF:0,Pink World Cinema
+http://87.255.53.72:9086
+
+#EXTINF:0,Pink Show
+http://87.255.53.72:9087
+
+#EXTINF:0,Pink Kuvar
+http://87.255.53.72:9088
+
+#EXTINF:0,Super Kids
+http://87.255.53.72:9089
+
+#EXTINF:0,Pink info 3
+http://87.255.53.72:9094
+
+#EXTINF:0,101 HD
+http://87.255.53.72:9100
+
+#EXTINF:0,6 HD
+http://87.255.53.72:9103
+
+#EXTINF:0, 24Vesti(MK)
+http://185.152.65.132:8080/24vesti/mpegts
+
+#EXTINF:0, Disney XD
+http://163.172.42.177:25461/live/19/19/1637.ts
+
+#EXTINF:0, ROMA TV
+http://185.46.161.3/hls/sd.m3u8
