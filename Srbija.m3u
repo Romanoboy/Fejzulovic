@@ -7,3 +7,17 @@ http://mf.bibeltv.c.nmdn.net/bibeltv_live/BIBEL_TV_HQ-480p.stream/playlist.m3u8
 http://185.152.65.132:8080/24vesti/mpegts
 #EXTINF:0, ROMA TV
 http://185.46.161.3/hls/sd.m3u8
+#EXTINF:0, NATIONAL GEOGRAPHIC
+http://109.175.6.122:4936/udp/239.0.0.16:1234
+#EXTINF:0, Animal Planet
+http://109.175.6.122:4936/udp/239.0.0.18:1234
+#EXTINF:0, RTL
+http://109.175.6.122:4936/udp/239.0.0.20:1234
+#EXTINF:0, ZeeOne
+http://lazalazarevic.dvrdns.org:8088/live?channelId=300&uid=39&deviceUser=hazimamidzic&devicePass=amidzichazim
+#EXTINF:0, Sky Cinema
+http://178.196.220.26:9981/play/a004
+#EXTINF:0, Prva
+http://beta-filistin-aleppo-ghozah.ustreamix.com/akamaized/index.m3u8?token=7cdf3a78859c7ae5a174c1b3999a9536
+#EXTINF:0, Pink
+http://37.187.24.7:8000/live/test66/test66/6.ts
