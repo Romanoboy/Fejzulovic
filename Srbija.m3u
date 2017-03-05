@@ -7,17 +7,37 @@ http://mf.bibeltv.c.nmdn.net/bibeltv_live/BIBEL_TV_HQ-480p.stream/playlist.m3u8
 http://185.152.65.132:8080/24vesti/mpegts
 #EXTINF:0, ROMA TV
 http://185.46.161.3/hls/sd.m3u8
-#EXTINF:0, NATIONAL GEOGRAPHIC
-http://109.175.6.122:4936/udp/239.0.0.16:1234
-#EXTINF:0, Animal Planet
-http://109.175.6.122:4936/udp/239.0.0.18:1234
-#EXTINF:0, RTL
-http://109.175.6.122:4936/udp/239.0.0.20:1234
-#EXTINF:0, ZeeOne
-http://lazalazarevic.dvrdns.org:8088/live?channelId=300&uid=39&deviceUser=hazimamidzic&devicePass=amidzichazim
-#EXTINF:0, Sky Cinema
-http://178.196.220.26:9981/play/a004
 #EXTINF:0, Prva
 https://stream.nocache.net/tmg.m3u8?token=eb7cf55b0fc026fbbf1d0d9fd6751c72
 #EXTINF:0, Pink
-https://stream.nocache.net/tmg.m3u8?token=c14bd06f200b8addf8e654daad6f24ea
+http://62.210.248.96:11000/live/ken_ex/wefedgrftghtyjyuj56y54/3293.ts
+#EXTINF:0,Arena 3
+http://95.107.132.226:8000/play/a01b
+#EXTINF:0,ssks2
+http://95.107.132.226:8000/play/a01t
+#EXTINF:0,ssks1
+http://95.107.132.226:8000/play/a01s
+#EXTINF:0,Arena 4
+http://95.107.132.226:8000/play/a01c
+#EXTINF:0,balkanika
+http://95.107.132.226:8000/play/a004
+#EXTINF:0,Arena 2
+http://95.107.132.226:8000/play/a019
+#EXTINF:0,SK3
+http://95.107.132.226:8000/play/a00m
+#EXTINF:0,Klan Plus HD
+http://95.107.132.226:8000/play/a01r
+#EXTINF:0,Top Channel
+http://95.107.132.226:8000/play/a00x
+#EXTINF:0,MEGA
+http://95.107.132.226:8000/play/a002
+#EXTINF:0,SK2
+http://95.107.132.226:8000/play/a00g
+#EXTINF:0,SuperSport 2
+http://95.107.132.226:8000/play/a00i
+#EXTINF:0,Klan HD1
+http://95.107.132.226:8000/play/a02h
+#EXTINF:0,SK1
+http://95.107.132.226:8000/play/a003
+#EXTINF:0,Arena 1
+http://95.107.132.226:8000/play/a01l
