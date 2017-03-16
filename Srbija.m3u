@@ -10,7 +10,7 @@ http://185.46.161.3/hls/sd.m3u8
 #EXTINF:0, Prva
 https://stream.nocache.net/tmg.m3u8?token=eb7cf55b0fc026fbbf1d0d9fd6751c72
 #EXTINF:0, Pink
-http://62.210.248.96:11000/live/ken_ex/wefedgrftghtyjyuj56y54/3293.ts
+http://78.109.108.132:8210/live/XUQvH9GVTJ/qQPbZ9zbli/3.ts
 #EXTINF:0,Arena 3
 http://95.107.132.226:8000/play/a01b
 #EXTINF:0,ssks2
@@ -41,3 +41,5 @@ http://95.107.132.226:8000/play/a02h
 http://95.107.132.226:8000/play/a003
 #EXTINF:0,Arena 1
 http://95.107.132.226:8000/play/a01l
+#EXTINF:0,Televizija 5
+http://37.59.21.217:8809/live/tv5web.m3u8
