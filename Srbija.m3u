@@ -1,16 +1,6 @@
 #EXTM3U
-#EXTINF:0, TOP SOUND
-http://185.152.65.132:8080/topsound/mpegts
-
-#EXTINF:0, BIBELTV
-http://mf.bibeltv.c.nmdn.net/bibeltv_live/BIBEL_TV_HQ-480p.stream/playlist.m3u8
-
-#EXTINF:0, 24Vesti(MK)
-http://185.152.65.132:8080/24vesti/mpegts
-
-#EXTINF:0, ROMA TV
-http://185.46.161.3/hls/sd.m3u8
-
+#EXTINF:0,==== PINK MEDIA ====
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/203.ts
 #EXTINF:0,PINK
 http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/113.ts
 #EXTINF:0,PINK 2
@@ -58,6 +48,7 @@ http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/182.ts
 #EXTINF:0,PINK ZABAVA
 http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/181.ts
 #EXTINF:0,====Serbia====
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/231.ts
 #EXTINF:0,RTS 1
 http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/230.ts
 #EXTINF:0,RTS 2
@@ -168,35 +159,3 @@ http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/38.ts
 http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/37.ts
 #EXTINF:0,Sport Klub 4
 http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/178.ts
-#EXTINF:0,Arena 3
-http://95.107.132.226:8000/play/a01b
-#EXTINF:0,ssks2
-http://95.107.132.226:8000/play/a01t
-#EXTINF:0,ssks1
-http://95.107.132.226:8000/play/a01s
-#EXTINF:0,Arena 4
-http://95.107.132.226:8000/play/a01c
-#EXTINF:0,balkanika
-http://95.107.132.226:8000/play/a004
-#EXTINF:0,Arena 2
-http://95.107.132.226:8000/play/a019
-#EXTINF:0,SK3
-http://95.107.132.226:8000/play/a00m
-#EXTINF:0,Klan Plus HD
-http://95.107.132.226:8000/play/a01r
-#EXTINF:0,Top Channel
-http://95.107.132.226:8000/play/a00x
-#EXTINF:0,MEGA
-http://95.107.132.226:8000/play/a002
-#EXTINF:0,SK2
-http://95.107.132.226:8000/play/a00g
-#EXTINF:0,SuperSport 2
-http://95.107.132.226:8000/play/a00i
-#EXTINF:0,Klan HD1
-http://95.107.132.226:8000/play/a02h
-#EXTINF:0,SK1
-http://95.107.132.226:8000/play/a003
-#EXTINF:0,Arena 1
-http://95.107.132.226:8000/play/a01l
-#EXTINF:0,Televizija 5
-http://37.59.21.217:8809/live/tv5web.m3u8
