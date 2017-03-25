@@ -7,10 +7,165 @@ http://mf.bibeltv.c.nmdn.net/bibeltv_live/BIBEL_TV_HQ-480p.stream/playlist.m3u8
 http://185.152.65.132:8080/24vesti/mpegts
 #EXTINF:0, ROMA TV
 http://185.46.161.3/hls/sd.m3u8
-#EXTINF:0, Prva
-https://stream.nocache.net/tmg.m3u8?token=eb7cf55b0fc026fbbf1d0d9fd6751c72
-#EXTINF:0, Pink
-http://78.109.108.132:8210/live/XUQvH9GVTJ/qQPbZ9zbli/3.ts
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/203.ts
+#EXTINF:0,PINK
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/113.ts
+#EXTINF:0,PINK 2
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/202.ts
+#EXTINF:0,PINK 3
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/201.ts
+#EXTINF:0,PINK ACTION
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/198.ts
+#EXTINF:0,PINK CLASSiC
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/197.ts
+#EXTINF:0,PINK COMEDY
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/196.ts
+#EXTINF:0,PINK CRIME-MISTERY
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/195.ts
+#EXTINF:0,PINK FILM
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/200.ts
+#EXTINF:0,PINK HORROR
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/194.ts
+#EXTINF:0,PINK KUVAR
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/193.ts
+#EXTINF:0,PINK PEDIA
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/192.ts
+#EXTINF:0,PINK PLUS
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/191.ts
+#EXTINF:0,PINK PREMIUM
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/190.ts
+#EXTINF:0,PINK REALITY
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/189.ts
+#EXTINF:0,PINK ROMANCE
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/188.ts
+#EXTINF:0,PINK SCI-FI-FANTASY
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/187.ts
+#EXTINF:0,PINK SERIJE
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/199.ts
+#EXTINF:0,PINK SHOW
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/186.ts
+#EXTINF:0,PINK SOAP
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/185.ts
+#EXTINF:0,PINK THRILLER
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/184.ts
+#EXTINF:0,PINK WESTERN
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/183.ts
+#EXTINF:0,PINK WORLD
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/182.ts
+#EXTINF:0,PINK ZABAVA
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/181.ts
+#EXTINF:0,====Serbia====
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/231.ts
+#EXTINF:0,RTS 1
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/230.ts
+#EXTINF:0,RTS 2
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/115.ts
+#EXTINF:0,RTS 3
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/116.ts
+#EXTINF:0,RTS  HD
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/229.ts
+#EXTINF:0,RTS SAT
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/90.ts
+#EXTINF:0,PINK 1
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/228.ts
+#EXTINF:0,PRVA
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/227.ts
+#EXTINF:0,PRVA MAX. TEST
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/223.ts
+#EXTINF:0,PRVA PLUS
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/225.ts
+#EXTINF:0,Prva tv
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/114.ts
+#EXTINF:0,PRVA WORLD
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/224.ts
+#EXTINF:0,B92
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/111.ts
+#EXTINF:0,Happy
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/112.ts
+#EXTINF:0,PAROVI LIVE 24H
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/226.ts
+#EXTINF:0,VIP HD
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/222.ts
+#EXTINF:0,N 1 HD  (RS)
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/221.ts
+#EXTINF:0,PALMA PLUS
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/220.ts
+#EXTINF:0,NOVA RS HD
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/219.ts
+#EXTINF:0,RTV VOJVODINA 1
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/218.ts
+#EXTINF:0,RTV VOJVODINA 2
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/217.ts
+#EXTINF:0,MLAVA TV
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/216.ts
+#EXTINF:0,TV Mega
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/215.ts
+#EXTINF:0,AS TV SABAC
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/214.ts
+#EXTINF:0,Atlas TV
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/86.ts
+#EXTINF:0,RTV Novi Pazar
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/213.ts
+#EXTINF:0,Disc.Science
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/150.ts
+#EXTINF:0,Discovery Turbo
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/145.ts
+#EXTINF:0,Discovery Channel
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/13.ts
+#EXTINF:0,Discovery History
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/151.ts
+#EXTINF:0,Discovery ID
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/26.ts
+#EXTINF:0,Discovery Science
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/28.ts
+#EXTINF:0,Disney Junior
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/40.ts
+#EXTINF:0,Da Vinci Learning
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/210.ts
+#EXTINF:0,RTL
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/70.ts
+#EXTINF:0,RTL KOCKICA
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/123.ts
+#EXTINF:0,RTL2 Austria
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/74.ts
+#EXTINF:0,Sky Atlantic
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/134.ts
+#EXTINF:0,Sky Atlantic Ireland
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/142.ts
+#EXTINF:0,SUPER RTL A
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/67.ts
+#EXTINF:0,TLC
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/29.ts
+#EXTINF:0,xXx| Blue Hustler TV
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/59.ts
+#EXTINF:0,xXx| Hustler TV
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/60.ts
+#EXTINF:0,E!
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/209.ts
+#EXTINF:0,Animal Planet
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/12.ts
+#EXTINF:0,DJ TV
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/410.ts
+#EXTINF:0,DM SAT
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/453.ts
+#EXTINF:0,Arena sport 1
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/34.ts
+#EXTINF:0,Arena sport 2
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/33.ts
+#EXTINF:0,Arena sport 3
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/32.ts
+#EXTINF:0,Arena sport 4
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/31.ts
+#EXTINF:0,Arena sport 5
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/30.ts
+#EXTINF:0,Sport Klub 1
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/39.ts
+#EXTINF:0,SPORT KLUB 2
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/38.ts
+#EXTINF:0,SPORT KLUB 3
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/37.ts
+#EXTINF:0,Sport Klub 4
+http://149.56.27.19:25461/live/YG2Iuuliux/1EVX7dPzlL/178.ts
 #EXTINF:0,Arena 3
 http://95.107.132.226:8000/play/a01b
 #EXTINF:0,ssks2
