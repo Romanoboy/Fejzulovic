@@ -30,7 +30,7 @@ mms://62.162.58.55/24vesti
 #EXTINF:0,J4T4
 http://109.175.31.2:8525
 #EXTINF:0,Balkanika
-http://84.22.46.188/play/a00x
+http://server.hitlantv.com:8080/live/koray/koray123/734.ts
 #EXTINF:0,TV+ Kumanovo
 http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
 #EXTINF:0,Delta
